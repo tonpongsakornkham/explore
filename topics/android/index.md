@@ -1,7 +1,7 @@
 ---
 aliases: android-application, android-app, android-development
 created_by: Google
-display_name: Android
+display_name: Android,kotlin
 github_url: https://github.com/android
 logo: android.png
 released: September 23, 2008
